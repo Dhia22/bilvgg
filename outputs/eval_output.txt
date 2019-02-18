@@ -1,0 +1,5 @@
+Evaluating
+Checkpoint: /home/ubuntu/Dhia/431_roadway/com_bilp/roadway_intel/checkpoint/model.ckpt-71400
+Evaluation Complete 
+Precision: 0.227060 Steps: 1493
+Eval loss: 5.06
