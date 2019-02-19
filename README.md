@@ -1,7 +1,7 @@
-# Roadway Intel
+# Roadway Intel and compact bilinear pooling
 
 ### Vehicle make and model classification in Tensorflow by fine-tuning VGG16
-
+Built on the original [roadway intel](https://github.com/muhammadzaheer/roadway_intel)
 ### Dataset
 Training dataset consisted of 841 vehicle make/models from [CompCars dataset](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)[1]
 
