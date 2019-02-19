@@ -5,3 +5,5 @@ python3 -B main.py -t --batch_size 40 --epochs 200 --base_learning_rate=0.0001 -
 python3 -B main.py -e --batch_size 70 --part=fusion
 
 python3 -B main.py -t --batch_size 70 --epochs 200 --base_learning_rate=0.001 --decay_factor=0.1 --decay_epochs=100 --no_gpus=1 --part=fusion
+
+!pip3 install scikit-learn==0.18
